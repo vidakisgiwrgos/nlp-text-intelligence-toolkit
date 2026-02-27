@@ -8,8 +8,6 @@ Original file is located at
 """
 
 import os
-API_KEY = "insert_key_here"
-os.environ["WANDB_API_KEY"] = API_KEY
 os.environ["WANDB_MODE"] = "disabled"
 
 import torch
