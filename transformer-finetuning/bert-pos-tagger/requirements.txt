@@ -1,0 +1,10 @@
+transformers
+datasets
+evaluate
+accelerate
+torch
+numpy
+scikit-learn
+pyconll
+seqeval
+tqdm
