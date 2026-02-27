@@ -7,15 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1ngrktYP4jUZqk_eVCZWMu8keElxZnznU
 """
 
-!pip install transformers[torch] sentence-transformers datasets
-!pip install -U accelerate
-!pip install -U transformers
-!pip install -U evaluate
-!pip install -U peft
-!pip install seqeval
-
 import os
-API_KEY = "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"
+API_KEY = "insert_key_here"
 os.environ["WANDB_API_KEY"] = API_KEY
 os.environ["WANDB_MODE"] = "disabled"
 
