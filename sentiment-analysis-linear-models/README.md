@@ -21,3 +21,6 @@ The implementation uses the NLTK **subjectivity** dataset (objective vs subjecti
 
 ## Notes
 Academic origin (MSc NLP project), reorganized as a portfolio module.
+
+## Collaboration
+Team submission (3 members). Co-authors listed in the report. GitHub profiles will be added later if available.
