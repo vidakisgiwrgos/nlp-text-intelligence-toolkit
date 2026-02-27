@@ -32,3 +32,7 @@ Recurrent neural network projects for text classification (BiRNN + self-attentio
 ### 5) CNN Text Modeling
 Stacked CNN projects for text classification and POS tagging (n-gram filters, residual connections, global max pooling).
 - Folder: `cnn-text-modeling/`
+
+### 6) Transformer Fine-Tuning
+Fine-tuning BERT for subjectivity classification (sequence classification) and POS tagging (token classification).
+- Folder: `transformer-finetuning/`
