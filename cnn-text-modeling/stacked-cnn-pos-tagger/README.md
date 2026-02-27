@@ -15,3 +15,7 @@ Sequence labeling pipeline for POS tagging using a stacked CNN encoder.
 
 ## Collaboration
 Team submission (3 members). Co-authors listed in the report.
+
+## Reference documentation
+Specification and report are stored under:
+`cnn-text-modeling/stacked-cnn-text-classifier/docs/`
