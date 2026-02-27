@@ -24,3 +24,7 @@ End-to-end text classification pipeline with TF-IDF n-grams and Logistic Regress
 ### 3) Neural Text Modeling
 Neural NLP projects focusing on MLP-based text classification and POS tagging with word embeddings.
 - Folder: `neural-text-modeling/`
+
+### 4) RNN Sequence Modeling
+Recurrent neural network projects for text classification (BiRNN + self-attention) and POS tagging (BiRNN).
+- Folder: `rnn-sequence-modeling/`
