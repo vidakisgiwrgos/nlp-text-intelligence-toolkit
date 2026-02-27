@@ -7,14 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1toMAr7MolGApHftlsUSTCiKeJ4UZ3hk5
 """
 
-!pip install numpy
-!pip install scikit-learn
-!pip install pandas
-!pip install matplotlib
-!pip install umap-learn[plot]
-!pip install gensim
-!pip install torchmetrics
-
 from statistics import linear_regression
 from sklearn import svm
 from sklearn.model_selection import learning_curve
