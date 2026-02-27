@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1VFlCemoEkp6xn_x-kCb7u2a1nycO9FFD
 """
 
-!pip install torchmetrics
-!pip install torcheval
-
 from statistics import linear_regression
 from sklearn import svm
 from sklearn.model_selection import learning_curve
