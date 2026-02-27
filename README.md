@@ -16,3 +16,7 @@ Classic statistical language modeling with evaluation and practical text utiliti
 
 ## Notes
 Some modules originated from academic projects and are reorganized here as production-style portfolio work.
+
+### 2) Sentiment Analysis with Linear Models
+End-to-end text classification pipeline with TF-IDF n-grams and Logistic Regression, including strong evaluation (PR curves, macro averages, learning curves) and hyperparameter tuning.
+- Folder: `sentiment-analysis-linear-models/`
