@@ -28,3 +28,7 @@ Neural NLP projects focusing on MLP-based text classification and POS tagging wi
 ### 4) RNN Sequence Modeling
 Recurrent neural network projects for text classification (BiRNN + self-attention) and POS tagging (BiRNN).
 - Folder: `rnn-sequence-modeling/`
+
+### 5) CNN Text Modeling
+Stacked CNN projects for text classification and POS tagging (n-gram filters, residual connections, global max pooling).
+- Folder: `cnn-text-modeling/`
